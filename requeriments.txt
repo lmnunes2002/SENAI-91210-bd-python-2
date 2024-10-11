@@ -1,0 +1,4 @@
+SQLAlchemy
+pymysql
+
+pip install -r requeriments.txt
